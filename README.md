@@ -7,6 +7,9 @@ and which country spends more money for which particular artist.
 
 Database and Tools - 
 PostgreSQL
+
 PgAdmin4
-Schema- Music Store Database
+
+Schema 
+Music Store Database
 
