@@ -16,3 +16,6 @@ Schema
 Music Store Database
 
 
+
+
+![Schema diagram](https://github.com/user-attachments/assets/40f3385e-f457-441e-b660-728fc117cab0)
