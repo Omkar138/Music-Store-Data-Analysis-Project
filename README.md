@@ -6,10 +6,12 @@ This project analyzes the music playlist database and identifies which artist ma
 and which country spends more money for which particular artist.
 
 Database and Tools - 
+
 PostgreSQL
 
 PgAdmin4
 
-Schema 
+Schema
+
 Music Store Database
 
